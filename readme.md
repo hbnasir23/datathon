@@ -1,3 +1,5 @@
+PKL DRIVE LINK : https://drive.google.com/file/d/1SSshCFWcw0xfuia7NZNx0ScfQsOQgonO/view?usp=sharing
+
 # Offroad Semantic Segmentation (SegFormer-B2)
 
 This repository contains training + inference code for offroad semantic segmentation using SegFormer-B2 with correct label ID remapping.
